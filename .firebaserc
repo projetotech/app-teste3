@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "auth-2fa-871d0": {
+      "hosting": {
+        "app": [
+          "auth-2fa-871d0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "auth-2fa-871d0"
+  }
+}
